@@ -131,3 +131,4 @@ dist
 
 # Project files
 secrets/*
+!secrets/service-account.example.json

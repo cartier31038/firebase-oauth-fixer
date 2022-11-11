@@ -4,12 +4,12 @@
   "description": "Firebase Auth Web Client OAuth 2.0 Fixer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index.js"
+    "start": "node index.js"
   },
   "author": "Nitirat",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "google-auth-library": "^8.7.0"
   }
 }
