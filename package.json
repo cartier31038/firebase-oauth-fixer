@@ -8,5 +8,8 @@
     "dev": "node index.js"
   },
   "author": "Nitirat",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^8.7.0"
+  }
 }
